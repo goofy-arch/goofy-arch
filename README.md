@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goofy-arch
-- 👀 I’m interested in web development
+- 👀 I’m interested in technology
 
 
 <!---
